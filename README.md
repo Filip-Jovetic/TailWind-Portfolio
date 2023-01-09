@@ -4,9 +4,13 @@ In this project, we build a responsive SPA using the tailwind framework.
 #can work with UI controls
 
 
+
 # Installation
 
 Install tailwindcss via npm, and create your tailwind.config.js file.
+
+npm install -D tailwindcss
+npx tailwindcss init
 
 # Node
 Node is really easy to install & now include NPM. You should be able to run the following command after the installation procedure below.
@@ -29,3 +33,7 @@ module.exports = {
   },
   plugins: [],
 }
+
+# Start & watch
+
+npm watch npm build
