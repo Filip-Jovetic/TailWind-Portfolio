@@ -1,7 +1,7 @@
 # TailWind-Portfolio
 
-In this project, we build a responsive SPA using the tailwind framework.
-#can work with UI controls
+In this project we are building a responsive SPA using the tailwind framework.
+#it can work with UI controls
 
 
 
